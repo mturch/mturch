@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mturch
+- 👋 Hi, I’m @mturchin
 - 👀 I’m interested in ... Python programming, shell scripting, and working with statistics, mathematics, machine learning, and natural language processing.
 - 🌱 I’m currently learning ... more about cryptocurrencies.
 - 💞️ I’m looking to collaborate on ... multiple projects that I am working on. Please contact me if interested.
